@@ -1,0 +1,18 @@
+
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;   
+    background-color: whitesmoke;
+}
+a:hover{
+    color:rgb(0, 119, 255);
+}
+.center{
+    text-align: center;
+}
+body{
+    resize: both;
+}
+.TabLeft{
+    padding-left: 100px;
+    padding-right: 100px;
+  }
